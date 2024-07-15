@@ -1,0 +1,1 @@
+Calculadora criada utilizando PySide6 acompanhando curso de python, com esse projeto consegui entender como funciona essa biblioteca. Ao final do projeto consegui executar a aplicação como exe, caso alguém queira testar o arquivo entre em contato comigo que envio, pois devido ao tamanho não consegui adiciona-lo ao repositório. 
